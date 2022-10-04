@@ -4,4 +4,4 @@ Uses data from the data driven battery scheduling competition; introduces batter
 Firstly, unzip the submit.csv file and put the contained csv files in the submit folder. <br>
 Secondly, run the Optimizing_battery_schedule_using_pyomo.ipynb file.
 
-Hopefully the code is pretty well documented in the notebook. This post (http://energystoragesense.com/uncategorized/scheduling_batt_optimisation/) accompanies the code.
+Hopefully the code is pretty well documented in the notebook. This post (http://www.eseslab.com/posts/blogPost_batt_schedule_optimal) accompanies the code.
